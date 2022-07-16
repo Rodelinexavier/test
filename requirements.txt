@@ -1,0 +1,9 @@
+pandas
+numpy
+pickle
+pyaudio
+tensorflow
+SpeechRecognition
+en_core_web_md
+streamlit
+
