@@ -3,7 +3,6 @@ numpy
 pyaudio
 tensorflow
 SpeechRecognition
-en_core_web_md-3.4.0
 streamlit
 python-3.10.5
 spacy>=2.2.0,<3.0.0
