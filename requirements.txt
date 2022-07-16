@@ -6,5 +6,5 @@ SpeechRecognition
 en_core_web_md-3.4.0
 streamlit
 python-3.10.5
-
+spacy 2.3.0
 
